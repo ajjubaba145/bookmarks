@@ -24,5 +24,7 @@
 
 * `cd bookmarks`
   
+* `chmod 777 bookmarks`
+  
 * `./bookmarks`
 
